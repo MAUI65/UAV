@@ -6,7 +6,7 @@ paho_mqtt>=1.6.1
 PyGObject~=3.42.2
 setuptools>=68.0.0
 
-opencv-python~=4.8.1.78
+opencv-python
 paho-mqtt~=1.6.1
 matplotlib~=3.8.0
 Pillow~=10.1.0
