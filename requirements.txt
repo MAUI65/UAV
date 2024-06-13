@@ -1,7 +1,7 @@
 fastcore>=1.4
 imutils>=0.5.4
 numpy>=1.25.2
-opencv_python>=4.8.0.74
+opencv_python>=4.7.0.72
 paho_mqtt>=1.6.1
 PyGObject~=3.42.2
 setuptools>=68.0.0
@@ -21,7 +21,7 @@ msgpack-python~=0.5.6
 moviepy~=1.0.3
 toml~=0.10.2
 fs~=2.4.16
-PySimpleGUI~=4.59.0
+PySimpleGUI~=5.0.0
 pymavlink~=2.4.40
 colorlog~=6.7.0
 pynput~=1.7.6
